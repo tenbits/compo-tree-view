@@ -1,0 +1,11 @@
+{
+  "name": "compo-tree-view",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/treeView.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Alex Kit<alex.kit@atmajs.com>",
+  "license": "MIT"
+}
