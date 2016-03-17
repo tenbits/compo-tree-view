@@ -1,6 +1,6 @@
 {
   "name": "compo-tree-view",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/treeView.js",
   "scripts": {
