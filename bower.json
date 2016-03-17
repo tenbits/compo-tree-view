@@ -1,7 +1,7 @@
 {
   "name": "compo-tree-view",
   "main": "lib/treeView.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "authors": [
     "Alex Kit <alex.kit@atmajs.com>"
   ],
